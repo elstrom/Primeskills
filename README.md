@@ -88,9 +88,9 @@ To get started with this project, you'll need the following installed:
 
 This project does not currently include unit tests. However, you can easily test the API using tools like [Postman](https://www.postman.com/).
 
-### Postman Collection
+### ChatGPT Guide
 
-You can find a Postman collection to test the API here: [Postman Collection](https://chatgpt.com/share/678d5388-d4f4-8010-9487-f62fb384a7cc).
+You can find the complete guide for building the Comments API with Golang, GORM, and PostgreSQL based on ChatGPT's instructions here: [ChatGPT Guide](https://chatgpt.com/share/678d5388-d4f4-8010-9487-f62fb384a7cc).
 
 ## License
 
